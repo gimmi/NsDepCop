@@ -1,0 +1,11 @@
+/*/obj/
+/*/bin/
+packages/
+*.user
+_ReSharper*
+*resharper*
+*.suo
+*.cache
+* Thumbs.db
+.vs/
+.idea/
